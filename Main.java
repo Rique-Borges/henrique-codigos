@@ -14,7 +14,7 @@ public class Main {
                 clonePhysical = petMystic * 23 / 11000;
                 cloneMystic = petMystic * 5 / 9;
                 cloneBattle = petMystic * 1.1 / 2;
-                System.out.println("Estes são ideais para o clone para maximizar o ganho de XP:");
+                System.out.println("Estes são os stats ideais para o clone para maximizar o ganho de XP:");
                 System.out.println("Physical: " + clonePhysical);
                 System.out.println("Mystic: " + cloneMystic);
                 System.out.println("Battle: " + cloneBattle);
